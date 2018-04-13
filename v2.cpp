@@ -39,5 +39,4 @@ int main(int argc, char **argv)
     state = wordmap[state][ind];
   }
   cout << endl;
-  cout << endl;
 }
