@@ -59,3 +59,7 @@ foo.operator[]("Hello")
 foo["Hello"]
 ```
 Now all you have to do it to write your own at() function that performs the hash in order to complete the assignment.
+
+Make sure you test your code thoroughly and know exactly how your hash table is working.  This 
+[code](https://github.com/BYUCS235/OperatorOverloading/blob/master/map.cpp) may give you some ideas on how to print out the elements you are pointing to.
+
